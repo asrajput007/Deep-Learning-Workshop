@@ -14,19 +14,27 @@ What You'll Learn
 🚀 Model Deployment: Learn how to deploy your models using tools like Flask, FastAPI, or ONNX.
 
 🛠 Prerequisites
+
 Basic Python knowledge
+
 Familiarity with NumPy & Pandas (recommended)
+
 Enthusiasm to learn and experiment! 🎯
 
 📂 Repository Contents
+
 📌 Notebooks: Step-by-step tutorials & exercises
+
 📌 Scripts: Code implementations for training & inference
+
 📌 Datasets: Sample datasets for hands-on practice
+
 📌 Resources: Cheat sheets & additional learning materials
 
 Open the Jupyter notebooks and start coding!
 
 Who Is This For?
+
 ✅ Students and beginners looking to get started with deep learning.
 
 ✅ Developers and data scientists aiming to sharpen their skills.
@@ -36,5 +44,6 @@ Who Is This For?
 
 🤝Contribute
 Feel free to contribute to this repository by submitting pull requests, reporting issues, or suggesting new topics. Let's learn and grow together!
+
 ⭐ Star this repo if you find it useful!
 
